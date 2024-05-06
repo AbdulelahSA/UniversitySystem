@@ -1,6 +1,6 @@
 # UniversitySystem
 
-UniversitySystem is a Java Swing application for managing student registration, adding teachers, assigning marks, and generating statistics.
+UniversitySystem is a Java Swing application for managing student registration, adding teachers, assigning marks, and generating statistics. This project is designed for a university GUI course.
 
 ## Features
 
